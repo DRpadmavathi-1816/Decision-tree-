@@ -1,11 +1,15 @@
-# Decision-tree-                        Decision Tree notebook project:
+  Decision Tree notebook project:
 
 🌳 Decision Tree Classifier with Scikit-Learn
 
 This project demonstrates how to build and evaluate a Decision Tree Classifier using Python's scikit-learn library. The classic Iris dataset is used to showcase the process of training, testing, and visualizing a decision tree model.
+INTERNSHIP INFORMATION 
 
-🧑‍💻 AUTHOR :
-Name Dhupam Renuka Padmavathi 
+Company 
+Name
+Intern Id 
+Domain 
+
 
 
 📂 Files Included
