@@ -6,12 +6,17 @@ This project demonstrates how to build and evaluate a Decision Tree Classifier u
 
 INTERNSHIP INFORMATION 
 
-Company   : CODETECH IT SOLUTIONS 
+- Company   : CODETECH IT SOLUTIONS 
+
 Name      : Dhupam Renuka Padmavathi 
+
 Intern Id :
+
 Domain    : MACHINE LEARNING 
+
 Duration  : 6 Weeks
-Mentor    :Neela Shantosh 
+
+Mentor    :Neela Shantosh Kumar 
 
 
 Files Included
