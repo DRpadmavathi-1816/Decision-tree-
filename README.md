@@ -3,6 +3,7 @@
 Decision Tree Classifier with Scikit-Learn
 
 This project demonstrates how to build and evaluate a Decision Tree Classifier using Python's scikit-learn library. The classic Iris dataset is used to showcase the process of training, testing, and visualizing a decision tree model.
+
 INTERNSHIP INFORMATION 
 
 Company   : CODETECH IT SOLUTIONS 
@@ -21,19 +22,17 @@ Decision Tree.ipynb: Jupyter Notebook containing the complete code and explanati
 
 
 
-📌 Key Features
+ Key Features
 
-📊 Load and explore the Iris dataset
+Load and explore the Iris dataset
 
-🧪 Split the dataset into training and test sets
+ Split the dataset into training and test sets
 
-🌳 Train a Decision Tree classifier
+ Train a Decision Tree classifier
 
-✅ Evaluate model accuracy
+Visualize the decision tree using sklearn.tree.plot_tree
 
-🖼️ Visualize the decision tree using sklearn.tree.plot_tree
-
-🔧 Requirements
+ Requirements
 
 Make sure the following Python packages are installed:
 
@@ -50,7 +49,7 @@ pip install pandas numpy matplotlib scikit-learn
 3. Run the cells in order to train and test the model.
 
 
-📈 Output Preview
+ Output Preview
 
 Model Accuracy on Test Set
 
