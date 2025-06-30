@@ -8,15 +8,15 @@ INTERNSHIP INFORMATION
 
 - Company   : CODETECH IT SOLUTIONS 
 
-Name      : Dhupam Renuka Padmavathi 
+- Name      : Dhupam Renuka Padmavathi 
 
-Intern Id :
+- Intern Id :
 
-Domain    : MACHINE LEARNING 
+- Domain    : MACHINE LEARNING 
 
-Duration  : 6 Weeks
+- Duration  : 6 Weeks
 
-Mentor    :Neela Shantosh Kumar 
+- Mentor    :Neela Shantosh Kumar 
 
 
 Files Included
