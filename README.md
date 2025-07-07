@@ -16,7 +16,7 @@ INTERNSHIP INFORMATION
 
 - Duration  : 6 Weeks
 
-- Mentor    :Neela Shantosh Kumar 
+- Mentor    :Neela Shantosh
 
 
 Files Included
