@@ -54,7 +54,7 @@ pip install pandas numpy matplotlib scikit-learn
 3. Run the cells in order to train and test the model.
 
 
- Output Preview
+# Output Preview
 
 Model Accuracy on Test Set
 
